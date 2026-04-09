@@ -1,3 +1,11 @@
-int age = 25;
-int score = 100;
-int sum = age + score;
+boolean isStudent = true;
+boolean hasPassedExam = false;
+double price = 19.99;
+double temperature = -2.5;
+double result = 10.5 + 3.7;
+double division = 10.0 / 3.0;
+String name = "Joe";
+String greeting = "Hello, World!";
+String empty = "";
+String cowboy = "Howdy.";
+String combined = name + " says " + cowboy;
